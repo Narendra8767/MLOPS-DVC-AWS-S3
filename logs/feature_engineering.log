@@ -1,0 +1,30 @@
+2026-04-01 12:24:41,662 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 12:24:41,686 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2026-04-01 12:24:41,689 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2026-04-01 12:24:41,746 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-04-01 12:24:41,821 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2026-04-01 12:24:41,842 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2026-04-01 16:22:40,466 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 16:22:40,473 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2026-04-01 16:22:40,478 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2026-04-01 16:22:40,544 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-04-01 16:22:40,619 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2026-04-01 16:22:40,644 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2026-04-01 17:16:50,490 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 17:16:50,518 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2026-04-01 17:16:50,521 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2026-04-01 17:16:50,585 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-04-01 17:16:50,653 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2026-04-01 17:16:50,677 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2026-04-01 21:30:32,314 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 21:30:32,350 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2026-04-01 21:30:32,366 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2026-04-01 21:30:32,431 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-04-01 21:30:32,494 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2026-04-01 21:30:32,513 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2026-04-01 21:35:24,473 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 21:35:24,538 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2026-04-01 21:35:24,561 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2026-04-01 21:35:24,700 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-04-01 21:35:24,852 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2026-04-01 21:35:24,892 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv

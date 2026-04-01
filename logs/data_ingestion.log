@@ -1,0 +1,22 @@
+2026-04-01 11:29:58,624 - data_ingestion - ERROR - File not found: params.yaml
+2026-04-01 11:29:58,627 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2026-04-01 11:33:20,048 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 11:33:22,049 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Narendra8767/Dataset/refs/heads/main/spam.csv
+2026-04-01 11:33:22,059 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-01 11:33:22,118 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-01 16:16:11,821 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 16:16:14,041 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Narendra8767/Dataset/refs/heads/main/spam.csv
+2026-04-01 16:16:14,051 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-01 16:16:14,104 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-01 16:17:31,273 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 16:17:32,038 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Narendra8767/Dataset/refs/heads/main/spam.csv
+2026-04-01 16:17:32,041 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-01 16:17:32,085 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-01 16:18:39,230 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 16:18:40,291 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Narendra8767/Dataset/refs/heads/main/spam.csv
+2026-04-01 16:18:40,293 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-01 16:18:40,334 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-01 17:15:27,195 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-04-01 17:15:28,094 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Narendra8767/Dataset/refs/heads/main/spam.csv
+2026-04-01 17:15:28,100 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-01 17:15:28,146 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
